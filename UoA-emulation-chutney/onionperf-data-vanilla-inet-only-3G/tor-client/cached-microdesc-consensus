@@ -1,0 +1,100 @@
+network-status-version 3 microdesc
+vote-status consensus
+consensus-method 25
+valid-after 2019-03-14 13:50:20
+fresh-until 2019-03-14 13:50:30
+valid-until 2019-03-14 13:50:40
+voting-delay 2 2
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir NoEdConsensus Running Stable V2Dir Valid
+recommended-client-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+recommended-relay-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+required-client-protocols Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=4 LinkAuth=1 Microdesc=1-2 Relay=2
+required-relay-protocols Cons=1 Desc=1 DirCache=1 HSDir=1 HSIntro=3 HSRend=1 Link=3-4 LinkAuth=1 Microdesc=1 Relay=1-2
+shared-rand-current-value 0 zxJao+gBmFMSezvz/VXkEWEQJD5b/z+7AXNCGoLFVW0=
+dir-source test002a 543C0EE46CA73D1347C1D9FCAE1B02B96AA17B67 10.0.0.4 10.0.0.4 7002 5002
+contact auth2@test.test
+vote-digest 72232DBEBCFCEEBCCA8B2B1C874AC438B660F799
+dir-source test000a C34B11E5B4916AF7D2497D9A5FD0FF1797A20C47 10.0.0.2 10.0.0.2 7000 5000
+contact auth0@test.test
+vote-digest E2E51FECAEB68F47DF6D030C51FA83AEB1420F0F
+dir-source test001a FF2A24DECC3C77B60F080AEB3B5B9A10B82AB5CA 10.0.0.3 10.0.0.3 7001 5001
+contact auth1@test.test
+vote-digest 9F3459286CB786154B5E5421EA387EC6AF7B3977
+r test002a GhKWDHGGLkNdwxlt8At66Mr8YUk 2019-03-14 13:47:44 10.0.0.4 5002 7002
+m +jrAO8jxN1IefSah4VHmdhyRO/oqiRsN38Z4vor0aTY
+s Authority Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test001a S63PK9Q35P813irDeiNh3/EHFrk 2019-03-14 13:47:52 10.0.0.3 5001 7001
+m g5KmmAFEqAtC3KO/ZI8xpSHeUT29Vn0Kssq3+7stScY
+s Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test004r b0sLKjby7nxIYBiLHRr0E1Uhsyg 2019-03-14 13:47:41 10.0.0.6 5004 7004
+m Qo9xE6o3k9fGjx9F+rmvbvKInVrKmBrgttsx+gqyhUk
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test005r fACX6MLSpvk856VnJl+pDrARLKw 2019-03-14 13:47:41 10.0.0.7 5005 7005
+m i1YTgrRS7nq5QEE7FdC3g6SByEd7LyFrtII6aGN17YM
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test000a mcWhzeL/Xvpq650mToWQRnbK4E0 2019-03-14 13:47:45 10.0.0.2 5000 7000
+m nmznp6oIUcv9NPPrReHlufL/SWP7pWqKLm/PpZDsc08
+s Authority Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test003r ob/m6bS8TSMs4o2smadtSvnXq8s 2019-03-14 13:47:41 10.0.0.5 5003 7003
+m KEjNwPjP1JLzmdVZFTa6EsTiDa6nSUps7HucLn9WXr0
+s Exit Fast Guard HSDir Running Stable V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test007r +d+Y4c+ahfMjNq/m/B2ZjiFu/Us 2019-03-14 13:47:42 10.0.0.9 5007 7007
+m d3rerzjLvZzWRgJ5ZMtAbNesRkClnyfnmqUCvPUlrRs
+s Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+r test006r /NBoktQsgyVQsX2zH5CYv7mOYgs 2019-03-14 13:47:42 10.0.0.8 5006 7006
+m UzO6DezqXd3aMd6OTLJUjmYhWIu8lmyv/8G95BuWo1c
+s Exit Fast Guard HSDir Running V2Dir Valid
+v Tor 0.2.9.16
+pr Cons=1-2 Desc=1-2 DirCache=1 HSDir=1 HSIntro=3 HSRend=1-2 Link=1-4 LinkAuth=1 Microdesc=1-2 Relay=1-2
+w Bandwidth=0 Unmeasured=1
+directory-footer
+directory-signature sha256 543C0EE46CA73D1347C1D9FCAE1B02B96AA17B67 CACA7415D106253DE7E263B1FFCC1396EFE07088
+-----BEGIN SIGNATURE-----
+DD4rbXPKTA7hpek96NRIOQz+Y9b0+xyGCSU3uJF+peH7OclfuNt57SiBks6lI2rR
+LdJh5zxX3dJg1tNlrDd0MQhq+sF+Ih3NAXjBjql0bJz7T992l58Wk2bUm8BfrQX0
+ia8uMUUcLQk1sIaOFYWbygR0Z47SaAV42iEYucNdbfCNKfDfWoFQdETG8IsjFhWV
+DxXEPZufksD1yeSSE9OccGf3vqUf15ln/QQxkMkpIxLngVq4xT2jjDx8Gw958QbP
+V7TRmAaTZC1BCuC32qF8ViSOc8tmtBn0HNy9VrqumVI0aZmydbW7spzR9E+v01+6
+Ww32qatJ+MjP1WzyLcXQcQ==
+-----END SIGNATURE-----
+directory-signature sha256 C34B11E5B4916AF7D2497D9A5FD0FF1797A20C47 8E961506E9FB0F129D1E939DC78897D82AA3692B
+-----BEGIN SIGNATURE-----
+S+mvGvdwAokX99zoA6UIKHB7QK7iZ4alNvVAkVxTkgvrVhpeN7qYnuudJfkcQGin
+rzeIpaYT9gD6EZ5PbCQAQCg6MXGu7sAvwgt9n4AwLcHtOhVu15kO1xhnL1xU9PTv
+BBgzLK3iegLG1ZbbPFSlqSkLK8FzF4pQs237Kgk6Y05xTpFQUKMD38oXefD7BqV8
+e8FT+bYzKE9i+E4Cy+NGS9qNSQhB8NAwItnXPG3//d+WYRrVs70HKAQ9XbILTzLp
+yxOh4tD8ULcoElMIP1DhMnp+nFF0KGVMLhvUQ8snuTt1mEMtk02o9UjOOBzOGXj6
+LpJLfTymgGRBNR2JqtF00w==
+-----END SIGNATURE-----
+directory-signature sha256 FF2A24DECC3C77B60F080AEB3B5B9A10B82AB5CA 76337315CCAD53C28814FD68056562F936C640AA
+-----BEGIN SIGNATURE-----
+PM7smeIX00TenIbOozsQIsw65yPIUFP0kiWqwUhyhu2GaDv3WB/Bm+W7DYLITJ9+
+MLj/kLyrbuNrLrHWcu/m682eCM/WTeNW5diPEkquuIlvUjoMF7rVw68R1WAu+0j3
+JWZNvTUY7BiyXenWGmouCem3D/SOjtbCucfsj3FxnmWITND/JcpJ6AMkaeq3YxTQ
+HNUg2Ke04kkZAWVi0V9etdW51+8ZfJAJhgckLlkQ/PrV9gYM0kb8UP2n1yUm9Il8
++9Enk3F2TfPGZc0+QPF5kbPy97PyenzE2hGPke/1WLCsp2yHQFhxuyujuUPVs+tE
+8JgKvH2IuvZJxFNoARVfJA==
+-----END SIGNATURE-----

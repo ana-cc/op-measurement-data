@@ -1,0 +1,70 @@
+# Tor state file last generated on 2019-03-13 16:19:25 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard cymrubridge02 97700DFE9F483596DDA6264C4D7DF7641E1E39CE DirCache
+EntryGuardAddedBy 97700DFE9F483596DDA6264C4D7DF7641E1E39CE 0.2.9.16 2019-02-23 02:03:38
+EntryGuardPathBias 64.000000 64.000000 63.000000 1.000000 0.000000 1.000000
+EntryGuardPathUseBias 21.000000 21.000000
+TorVersion Tor 0.2.9.16 (git-9ef571339967c1e5)
+LastWritten 2019-03-13 16:19:25
+TotalBuildTimes 63
+CircuitBuildTimeBin 2725 1
+CircuitBuildTimeBin 3075 1
+CircuitBuildTimeBin 3325 1
+CircuitBuildTimeBin 3525 1
+CircuitBuildTimeBin 3575 1
+CircuitBuildTimeBin 3725 1
+CircuitBuildTimeBin 4275 1
+CircuitBuildTimeBin 4475 1
+CircuitBuildTimeBin 4525 1
+CircuitBuildTimeBin 4575 1
+CircuitBuildTimeBin 4725 1
+CircuitBuildTimeBin 5125 1
+CircuitBuildTimeBin 5175 1
+CircuitBuildTimeBin 5225 1
+CircuitBuildTimeBin 5325 1
+CircuitBuildTimeBin 5425 1
+CircuitBuildTimeBin 5475 1
+CircuitBuildTimeBin 5525 1
+CircuitBuildTimeBin 5575 1
+CircuitBuildTimeBin 5725 1
+CircuitBuildTimeBin 5775 1
+CircuitBuildTimeBin 5825 1
+CircuitBuildTimeBin 5875 2
+CircuitBuildTimeBin 5925 1
+CircuitBuildTimeBin 5975 1
+CircuitBuildTimeBin 6325 1
+CircuitBuildTimeBin 6675 1
+CircuitBuildTimeBin 6775 1
+CircuitBuildTimeBin 6925 2
+CircuitBuildTimeBin 7225 2
+CircuitBuildTimeBin 7275 1
+CircuitBuildTimeBin 7425 1
+CircuitBuildTimeBin 7475 1
+CircuitBuildTimeBin 7625 1
+CircuitBuildTimeBin 7825 1
+CircuitBuildTimeBin 7875 2
+CircuitBuildTimeBin 7925 1
+CircuitBuildTimeBin 8375 1
+CircuitBuildTimeBin 8575 1
+CircuitBuildTimeBin 8625 1
+CircuitBuildTimeBin 8875 1
+CircuitBuildTimeBin 8925 1
+CircuitBuildTimeBin 9025 1
+CircuitBuildTimeBin 9375 1
+CircuitBuildTimeBin 9675 1
+CircuitBuildTimeBin 10325 1
+CircuitBuildTimeBin 10525 1
+CircuitBuildTimeBin 10675 1
+CircuitBuildTimeBin 11475 1
+CircuitBuildTimeBin 11525 1
+CircuitBuildTimeBin 12025 1
+CircuitBuildTimeBin 12675 1
+CircuitBuildTimeBin 12725 1
+CircuitBuildTimeBin 12875 1
+CircuitBuildTimeBin 13725 1
+CircuitBuildTimeBin 14175 1
+CircuitBuildTimeBin 14425 1
+CircuitBuildTimeBin 14725 1
+CircuitBuildTimeBin 14875 1

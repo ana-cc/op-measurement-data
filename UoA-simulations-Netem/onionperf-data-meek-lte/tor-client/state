@@ -1,0 +1,22 @@
+# Tor state file last generated on 2019-04-02 06:05:11 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+EntryGuard Unnamed 46156FD75B36A72008643882B286A2FEDF2B40C1 DirCache
+EntryGuardAddedBy 46156FD75B36A72008643882B286A2FEDF2B40C1 0.2.9.16 2019-03-21 22:23:27
+EntryGuardPathBias 15.000000 15.000000 15.000000 0.000000 0.000000 0.000000
+EntryGuardPathUseBias 3.000000 3.000000
+TorVersion Tor 0.2.9.16 (git-9ef571339967c1e5)
+LastWritten 2019-04-02 05:05:11
+TotalBuildTimes 15
+CircuitBuildTimeBin 1025 1
+CircuitBuildTimeBin 1075 2
+CircuitBuildTimeBin 1125 1
+CircuitBuildTimeBin 1175 2
+CircuitBuildTimeBin 1325 1
+CircuitBuildTimeBin 1375 1
+CircuitBuildTimeBin 1425 2
+CircuitBuildTimeBin 1525 1
+CircuitBuildTimeBin 1575 1
+CircuitBuildTimeBin 1625 2
+CircuitBuildTimeBin 1675 1
